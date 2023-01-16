@@ -1,0 +1,9 @@
+.bag {
+  padding: 10px;
+  border-radius: 10px;
+  background-color: aquamarine;
+  width: fit-content;
+  position: fixed;
+  right: 20px;
+  top: 20px;
+}
